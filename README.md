@@ -33,7 +33,3 @@ Referensi kode wilayah administrasi pemerintahan Republik Indonesia
 | 09 | UU Nomor 15 Tahun 2022               | UU Nomor 15 Tahun 2022.pdf |
 | 10 | UU Nomor 16 Tahun 2022               | UU Nomor 16 Tahun 2022.pdf |
 | 11 | UU Nomor 29 Tahun 2022               | UU Nomor 29 Tahun 2022.pdf |
-
-## Donasi
-- untuk donasi via Bank Syariah Indonesia (BSI) 821-342-5550
-- untuk donasi via PayPal [https://paypal.me/cahyadwiana]
